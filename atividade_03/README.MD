@@ -1,5 +1,7 @@
 # Atividade 03 (React Native)
 
+- Biblioteca usada: React Native UI Kitten
+
 ## Page 01
 
 - (412 x 883)
