@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "d2f1",
+      "name": "matheus",
+      "cpf": "123",
+      "email": "123",
+      "password": "123"
+    },
+    {
+      "id": "1646",
+      "name": "vinicius",
+      "cpf": "123",
+      "email": "vinicius@example.com",
+      "password": "123"
+    },
+    {
+      "id": "b2ae",
+      "name": "teteu",
+      "cpf": "123",
+      "email": "123",
+      "password": "123"
+    }
+  ],
+  "contactList": [
+    {
+      "id": "0630",
+      "userId": "d2f1",
+      "contactList": [
+        {
+          "name": "jackson",
+          "number": "6565",
+          "email": "jackson5@hotmail.com"
+        }
+      ]
+    },
+    {
+      "id": "f739",
+      "userId": "1646",
+      "contactList": [
+        {
+          "name": "yuri",
+          "number": "yuri",
+          "email": "yuri"
+        }
+      ]
+    },
+    {
+      "id": "ec84",
+      "userId": "b2ae",
+      "contactList": [
+        {
+          "name": "aaaaa",
+          "number": "aaaaaa",
+          "email": "aaaaaa"
+        }
+      ]
+    }
+  ]
+}
