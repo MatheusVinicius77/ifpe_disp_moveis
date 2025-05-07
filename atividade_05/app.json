@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "atividade_03",
+    "slug": "atividade_03",
+    "version": "1.0.0"
+  },
+  "web": {
+    "build": { "babel": { "include": ["@ui-kitten/components"] } }
+  }
+}

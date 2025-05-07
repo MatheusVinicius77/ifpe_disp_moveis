@@ -1,0 +1,58 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Apartment",
+      "image": "/assets/page2/category/apartement.png"
+    },
+    {
+      "id": 2,
+      "name": "Homestay",
+      "image": "/assets/page2/category/homestay.png"
+    },
+    {
+      "id": 3,
+      "name": "Hostel",
+      "image": "/assets/page2/category/hostel.png"
+    },
+    {
+      "id": 4,
+      "name": "Hotel",
+      "image": "/assets/page2/category/hotel.png"
+    },
+    {
+      "id": 5,
+      "name": "Lodge",
+      "image": "/assets/page2/category/ladge.png"
+    },
+    {
+      "id": 6,
+      "name": "Resort",
+      "image": "/assets/page2/category/resort.png"
+    },
+    {
+      "id": 7,
+      "name": "Seal",
+      "image": "/assets/page2/category/seall.png"
+    },
+    {
+      "id": 8,
+      "name": "Villa",
+      "image": "/assets/page2/category/villa.png"
+    }
+  ],
+
+  "popularDestinations": [
+    { "id": 1, "image": "/assets/page2/destinations/dest1.png" },
+
+    { "id": 2, "image": "/assets/page2/destinations/dest2.png" },
+
+    { "id": 3, "image": "/assets/page2/destinations/dest3.png" }
+  ],
+
+  "recommended": [
+    { "id": 1, "image": "/assets/page2/recommends/recife.jpg" },
+
+    { "id": 2, "image": "/assets/page2/recommends/rj.jpg" }
+  ]
+}
