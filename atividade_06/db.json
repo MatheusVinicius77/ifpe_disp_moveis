@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "UE5ZKMtS9SYadpW2huuntYjqhlG3",
+      "name": "matheus",
+      "cpf": "12456",
+      "email": "matheus1234@example.com",
+      "password": "12345678"
+    }
+  ],
+  "contactList": [
+    {
+      "id": "be23",
+      "userId": "UE5ZKMtS9SYadpW2huuntYjqhlG3",
+      "contactList": []
+    }
+  ]
+}
